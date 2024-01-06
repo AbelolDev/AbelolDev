@@ -1,4 +1,4 @@
-![Banner](https://github.com/AbelolDev/banner/blob/main/welcome%20my%20friend.png)
+<div align="center">![Banner](https://github.com/AbelolDev/banner/blob/main/welcome%20my%20friend.png)</div>
 
 Welcome to my GitHub profile! I'm AbelolDev, passionate about Ethical hacking and programming. Currently, I work as Student in Computer Engineering and enjoy contributing to open source projects.
 
