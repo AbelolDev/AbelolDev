@@ -1,25 +1,23 @@
-<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
+# Hello everyone 👋
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="[https://sidbelbase.me](https://github.com/AbelolDev)">AbelolDev.</a></strong>
-</h1>
+![Banner](url_del_banner)
 
-<h3 align="left"><strong>
-I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
+Welcome to my GitHub profile! I'm [AbelolDev], passionate about [Ethical hacking and programming ]. Currently, I work as [Student in Computer Engineering] and enjoy contributing to open source projects.
 
-<a target="_blank" href="https://www.linkedin.com/in/abel-aravena-ortiz-bb8270298/">
-<img src="https://img.shields.io/badge/-sidbelbase-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abel-aravena-ortiz-bb8270298/" alt="Linkedin Badge">
-</a>
-<a target="_blank" href="https://www.instagram.com/a_b_e_l_4.0/">
-<img src="https://img.shields.io/badge/-sidbelbase-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&https://www.instagram.com/a_b_e_l_4.0/" alt="Instagram Badge">
-</a>
-<br>
+## About Me
 
-<br>
+- 💼 profession: [Student in Computer Engineering]
+- 🎓 Education: [Duoc UC institute]
+- 🚀 Skilss: [Linux 🐧❤️], [Python🐍], [Java☕] [C], [HTML and CSS]
 
-## About me
 
---Linux lover ❤️🐧
+## Collaboration
 
---Junior Programmer
+I'm open to collaborations and always interested in learning new things! If you have an exciting project or idea in mind, let's talk!
 
---Passionate about IT
+## Contact
+
+- 📧 E-mail address: [EMAIL](aaravenaortiz4@gmail.com)
+- 💬 LinkedIn: [LinkedIn](https://www.linkedin.com/in/abel-aravena-ortiz-bb8270298/)
+
+Thank you for visiting my profile! I hope you find my projects and contributions interesting. Feel free to contact me if you have any questions or just want to chat. 😊
