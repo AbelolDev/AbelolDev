@@ -1,37 +1,29 @@
-<div align="center">
-    <p>Hello everithing, i'm <a href="https://github.com/AbelolDev" target="_blank">AbelolDev</a></p>
-</div>
-<img src="/home/abelol/Descargas/welcome my friend.png" alt="Banner">
+<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="[https://sidbelbase.me](https://github.com/AbelolDev)">AbelolDev.</a></strong>
+</h1>
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<h3 align="left"><strong>
+I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
 
-- :school: I am a `Junior` at [Duoc UC](https://www.duoc.cl/)
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=AbelolDev&amp;color=EA4335&amp;style=flat-square)](mailto:aaravenaortiz4@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
-
+<a target="_blank" href="(https://www.linkedin.com/in/abel-aravena-ortiz-bb8270298/)">
+<img src="https://img.shields.io/badge/-sidbelbase-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sidbelbase/" alt="Linkedin Badge">
+</a>
+<a target="_blank" href="(https://www.instagram.com/a_b_e_l_4.0/)">
+<img src="https://img.shields.io/badge/-sidbelbase-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/sidbelbase/" alt="Instagram Badge">
+</a>
+<br>
 
 <br>
 
-## 🛠️ My Skills
+<a target="_blank" href="https://github.com/sidbelbase/sidbelbase/">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/sidbelbase&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="sidbelbase's vistors">
+</a>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+## About me
 
--Linux <img src="/home/abelol/Descargas/OS.gif" alt="Tux-fly">
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
+--Linux lover ❤️🐧
 
-<div align="center">
-    <li>
-        <ul>
-            <li>
-                gmail: aaravenaortiz4@gmail.com
-            </li>
-            <li>
-                Discord: <a href="abelol4.0">abelol4.0</a>
-            </li>
-        </ul>
-    </li>
-</div>
+--Junior Programmer
+
+--Passionate about IT
