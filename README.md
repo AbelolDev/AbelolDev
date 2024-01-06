@@ -1,6 +1,6 @@
-<div align="center">
-  (https://github.com/AbelolDev/banner/blob/main/welcome%20my%20friend.png)
-</div>
+<p align="center">
+  <img src="https://github.com/AbelolDev/banner/blob/main/welcome%20my%20friend.png" alt="Banner">
+</p>
 
 Welcome to my GitHub profile! I'm AbelolDev, passionate about Ethical hacking and programming. Currently, I work as Student in Computer Engineering and enjoy contributing to open source projects.
 
