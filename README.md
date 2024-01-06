@@ -1,14 +1,12 @@
 # Hello everyone 👋
 
-![Banner](url_del_banner)
-
-Welcome to my GitHub profile! I'm [AbelolDev], passionate about [Ethical hacking and programming ]. Currently, I work as [Student in Computer Engineering] and enjoy contributing to open source projects.
+Welcome to my GitHub profile! I'm AbelolDev, passionate about Ethical hacking and programming. Currently, I work as Student in Computer Engineering and enjoy contributing to open source projects.
 
 ## About Me
 
-- 💼 profession: [Student in Computer Engineering]
-- 🎓 Education: [Duoc UC institute]
-- 🚀 Skilss: [Linux 🐧❤️], [Python🐍], [Java☕] [C], [HTML and CSS]
+- 💼 profession: Student in Computer Engineering
+- 🎓 Education: Duoc UC institute
+- 🚀 Skilss: Linux 🐧❤️, Python🐍, Java☕ ,C , HTML and CSS
 
 
 ## Collaboration
