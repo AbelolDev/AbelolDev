@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://github.com/AbelolDev/banner/blob/main/welcome%20my%20friend.png" alt="Banner">
 </p>
 
