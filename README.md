@@ -58,7 +58,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/AbelolDev/AbelolDev/output/snake.svg" alt="Snake animation" />
-
-###
