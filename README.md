@@ -11,7 +11,9 @@
 
 ###
 
-<p align="left">💼 Profession: Student in Computer Engineering<br>    🎓 Education: Duoc UC institute<br>    🚀 Skils: Linux 🐧❤️, Python 🐍, Java ☕ ,C , HTML and CSS</p>
+<p align="left">💼 Profession: Student in Computer Engineering<br>    🎓 Education: Duoc UC institute<br>    🚀 Skils: Linux 🐧❤️, Python 🐍, ![imagen](https://github.com/user-attachments/assets/015a0b66-b1af-46d0-87b7-b611e4d6a729)
+ ,C ,  and ![imagen](https://github.com/user-attachments/assets/b09b1f77-1245-4927-86b7-4f480e8c593c)
+</p>
 
 ###
 
