@@ -2,8 +2,6 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbelolDev)](https://github.com/AbelolDev/github-profile-trophy)
-
 <p align="left">Welcome to my GitHub profile! I'm AbelolDev, passionate about Ethical hacking and programming. Currently, I work as Student in Computer Engineering and enjoy contributing to open source projects.</p>
 
 ###
