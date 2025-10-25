@@ -2,7 +2,7 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbelolDev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbelolDev)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">Welcome to my GitHub profile! I'm AbelolDev, passionate about Ethical hacking and programming. Currently, I work as Student in Computer Engineering and enjoy contributing to open source projects.</p>
 
